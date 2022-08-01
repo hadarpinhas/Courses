@@ -9,7 +9,6 @@ import tensorflow as tf
 
 
 if __name__=='__main__':
-    ModelCheckpoint.
     if False:
         path_to_data = 'C:\\Users\\User\\Downloads\\archive\\Train'
         path_to_save_train = 'C:\\Users\\User\\Downloads\\archive\\triaining_data\\train'
