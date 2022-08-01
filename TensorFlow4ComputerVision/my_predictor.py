@@ -16,7 +16,7 @@ def predict_with_model(model, img_path):
 if __name__=="__main__":
 
     img_path = "C:\\Users\\User\\Downloads\\archive\\Test\\2\\00409.png"
-    img_path = "C:\\Users\\User\\Downloads\\archive\\Test\\0\\00807.png"
+    # img_path = "C:\\Users\\User\\Downloads\\archive\\Test\\0\\00807.png"
 
     model = tf.keras.models.load_model('./Models')
     prediction = predict_with_model(model, img_path)
