@@ -1,2 +1,2 @@
 # Unsupervised Learning, Recommenders, Reinforcement Learning
-![Cheese](Unsupervised Learning, Recommenders, Reinforcement Learning.pdf)
+![CHEESE!](Unsupervised Learning, Recommenders, Reinforcement Learning.pdf)
