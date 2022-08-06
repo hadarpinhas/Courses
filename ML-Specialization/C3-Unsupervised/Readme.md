@@ -1,3 +1,3 @@
 # Unsupervised Learning, Recommenders, Reinforcement Learning
 
-![CHEESE!](Unsupervised Learning, Recommenders, Reinforcement Learning.jpg)
+![CHEESE!](Unsupervised Learning, Recommenders, Reinforcement Learning.png)
